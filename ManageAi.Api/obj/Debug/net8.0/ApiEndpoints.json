@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "ManageAi.Api.Controllers.ManageAiController",
+    "Method": "SendTaskToAi",
+    "RelativePath": "api/ManageAi",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "movieRecommendation",
+        "Type": "ManageAi.Api.MovieRecommendation",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

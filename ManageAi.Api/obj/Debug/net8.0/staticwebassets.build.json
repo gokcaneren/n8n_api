@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "X6kIehuvE5LJV+mrkIOxfN3qakN6iMdzuEW0gklljWU=",
+  "Source": "ManageAi.Api",
+  "BasePath": "_content/ManageAi.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

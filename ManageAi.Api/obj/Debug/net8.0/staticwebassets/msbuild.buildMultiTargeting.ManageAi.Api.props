@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ManageAi.Api.props" />
+</Project>

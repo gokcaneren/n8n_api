@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ManageAi.Api", "ManageAi.Api\ManageAi.Api.csproj", "{F0847B85-5358-4CE3-AC70-D856C0D919BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0847B85-5358-4CE3-AC70-D856C0D919BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0847B85-5358-4CE3-AC70-D856C0D919BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0847B85-5358-4CE3-AC70-D856C0D919BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0847B85-5358-4CE3-AC70-D856C0D919BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AE9047E-B1E4-4006-8D4E-3470A5B440B0}
+	EndGlobalSection
+EndGlobal
